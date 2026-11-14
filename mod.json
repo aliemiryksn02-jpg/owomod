@@ -1,14 +1,9 @@
 {
 	"geode": "v5.6.1",
-	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081"
-	},
+	"gd": "2.2081",
 	"version": "v1.0.0",
 	"id": "aliemiryksn02.owomod",
 	"name": "Owo Mod",
 	"developers": ["aliemiryksn02"],
-	"description": "2.2081 only owo mod",
-	"tags": ["gameplay"]
+	"description": "owo mod for 2.2081"
 }
