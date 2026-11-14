@@ -1,0 +1,13 @@
+{
+	"geode": "v4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074"
+	},
+	"version": "v1.0.0",
+	"id": "alice.owo-mod",
+	"name": "Owo Mod",
+	"developers": ["Alice"],
+	"description": "owo text mod"
+}
